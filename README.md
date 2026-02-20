@@ -38,7 +38,6 @@ Passionate about pragmatic risk management, developer experience, and turning vu
 
 - Secured financial products processing **$2.3B+/quarter** via threat modeling, pentesting, and code reviews across Go, Java, Python, and JS systems
 - Identified a **$300M financial risk** by reproducing insider attack scenarios in the financial ecosystem using AI-powered tools in 2 weeks
-- Scaled vulnerability management for a **$6B+ quarterly revenue** company, processing thousands of security reports
 - Managed **500+ vulnerabilities** through bug bounty programs with **95% SLA** compliance
 
 ### 🪵 MadeiraMadeira — Application Security Engineer
